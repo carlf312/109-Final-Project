@@ -241,8 +241,8 @@ ul.cat li {
 }
 ol.type li {
 	display: inline-block;
-	margin-right: 100px;
-	padding-right: 100px;
+	margin-right: 40px;
+	padding-right: 30px;
 	padding-top: 100px;
 }
 ol.type li a {
